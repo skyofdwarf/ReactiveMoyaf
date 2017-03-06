@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/ReactiveMoyaf.svg?style=flat)](http://cocoapods.org/pods/ReactiveMoyaf)
 [![Platform](https://img.shields.io/cocoapods/p/ReactiveMoyaf.svg?style=flat)](http://cocoapods.org/pods/ReactiveMoyaf)
 
+Simple [ReactiveObjc](https://github.com/ReactiveCocoa/ReactiveObjC) support for Moyaf.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
